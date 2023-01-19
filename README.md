@@ -7,7 +7,7 @@
 # 題目
 1. 使用這專案，建立自己的docker container，並讓本地可以呼叫API
 2. 寫出腳本並使用`.env`，可以動態修改下列參數
-  a. docker image name
-  b. docker image tag
-  c. docker container name
+    - docker image name
+    - docker image tag
+    - docker container name
 3. TBD...
